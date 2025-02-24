@@ -1,4 +1,4 @@
--- Active: 1739967884814@@127.0.0.1@5432@bookstore@public
+ -- Active: 1739967884814@@127.0.0.1@5432@bookstore@public
 
 -- employee Tablosu Oluşturulması
 
